@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ru.stqa.selenium:webdriver-logging-wrapper:1.0.47">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ru.stqa.selenium/webdriver-logging-wrapper/1.0.47/9eb951f942c38f6c7799ef34f5b48f4b1b6ebf23/webdriver-logging-wrapper-1.0.47.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ru.stqa.selenium/webdriver-logging-wrapper/1.0.47/d60ef1d9f62581ac278c8c16aa2e8aa2dfaaedd4/webdriver-logging-wrapper-1.0.47-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

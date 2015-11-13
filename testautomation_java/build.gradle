@@ -1,0 +1,13 @@
+apply plugin: 'java'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile group: 'ru.stqa.selenium', name: 'webdriver-logging-wrapper', version: '1.0.47'
+    compile group: 'com.codeborne', name: 'selenide', version: '2.24'
+    compile group: 'org.seleniumhq.selenium.fluent', name: 'fluent-selenium', version: '1.14.5'
+    compile group: 'junit', name: 'junit', version: '4.+'
+    compile group: 'ch.qos.logback', name: 'logback-classic', version: '1.1.3'
+}

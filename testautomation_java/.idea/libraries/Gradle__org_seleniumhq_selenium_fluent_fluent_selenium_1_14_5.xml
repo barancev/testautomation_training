@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.seleniumhq.selenium.fluent:fluent-selenium:1.14.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium.fluent/fluent-selenium/1.14.5/62161a804b255c0a5e691366b32f194b1a7500e/fluent-selenium-1.14.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium.fluent/fluent-selenium/1.14.5/c825196f43915410391c353fa222d794388703ee/fluent-selenium-1.14.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

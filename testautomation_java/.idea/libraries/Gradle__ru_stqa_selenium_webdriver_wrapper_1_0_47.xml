@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ru.stqa.selenium:webdriver-wrapper:1.0.47">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ru.stqa.selenium/webdriver-wrapper/1.0.47/702d068cf3e20c4a439143cb3f853f91fe32da3b/webdriver-wrapper-1.0.47.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ru.stqa.selenium/webdriver-wrapper/1.0.47/59107c4ec32507797cc937cee6ef395b829cad50/webdriver-wrapper-1.0.47-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
