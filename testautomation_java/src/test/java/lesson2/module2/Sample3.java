@@ -1,4 +1,4 @@
-package lection2.module2;
+package lesson2.module2;
 
 import org.junit.Assert;
 import org.junit.Test;
@@ -22,7 +22,8 @@ public class Sample3 {
     public void testInObjectStyle() {
         WebDriver driver = new ChromeDriver();
         driver.get("http://selenium2.ru/");
-        driver.findElement(By.name("searchword")).sendKeys("webdriver" + Keys.ENTER);
+        WebElement searchField = driver.findElement(By.name("searchword"));
+        searchField.sendKeys("webdriver" + Keys.ENTER);
         WebElement result = new WebDriverWait(driver, 10).until(presenceOfElementLocated(By.cssSelector("div.searchintro")));
         Assert.assertEquals(result.getText(), "Результат поиска: найдено 53 объекта.");
         driver.quit();

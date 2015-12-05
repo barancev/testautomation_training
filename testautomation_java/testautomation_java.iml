@@ -64,5 +64,12 @@
     <orderEntry type="library" name="Gradle: org.eclipse.jetty.websocket:websocket-api:9.2.12.v20150709" level="project" />
     <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpcore:4.4.3" level="project" />
     <orderEntry type="library" name="Gradle: org.seleniumhq.selenium.fluent:fluent-selenium:1.14.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.testng:testng:6.9.9" level="project" />
+    <orderEntry type="library" name="Gradle: com.beust:jcommander:1.48" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.ant:ant:1.7.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.yaml:snakeyaml:1.15" level="project" />
+    <orderEntry type="library" name="Gradle: org.beanshell:bsh:2.0b4" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.ant:ant-launcher:1.7.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.tngtech.java:junit-dataprovider:1.10.2" level="project" />
   </component>
 </module>
